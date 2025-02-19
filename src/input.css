@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@layer utilities {
+
+    .body-color{
+        background-color:#E2B241;
+
+
+
+    }
+    
+    .navbar{
+
+        background-color:#241B18;
+        color:#FFC947;
+        font-family: "QuattrocentoSans-Regular";
+        src:url('../fonts/QuattrocentoSans-Regular.eot');
+        
+    }
+
+    .navbar a:hover{
+        color:#FFC947;
+
+
+    }
+    .button{
+        background-color:#241B18;
+        font-family: "QuattrocentoSans-Regular";
+        src:url('../fonts/QuattrocentoSans-Regular.eot');
+    }
+    
+
+   .h2 {
+    color:#241B18;
+    font-family:"Oswald";
+	src:url('../fonts/Oswald.eot');
+    margin-top:100px;
+
+   }
+
+   .p{
+    color:#241B18;
+    font-family:"Oswald";
+	src:url('../fonts/Oswald.eot');
+
+
+   }
+   .let{
+    font-family:"Oswald";
+	src:url('../fonts/Oswald.eot');
+   }
+
+   .card1{
+        background-color:#4B3A33;
+        }
+        .card2{
+
+            background-color:#241B18;
+        }
+
+    .dh1{
+
+            color:#E2B241;
+            font-family:"Oswald";
+	        src:url('../fonts/Oswald.eot');
+        }
+       
+        .blog{
+            background-color:#DDDAD3;
+        }
+
+        .about{
+            background-color:#E1E1E1;
+        }
+
+        .ap{
+            font-family: "QuattrocentoSans-Regular";
+        src:url('../fonts/QuattrocentoSans-Regular.eot');
+        }
+   
+
+
+
+
+}
